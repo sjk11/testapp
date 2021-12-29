@@ -1,0 +1,16 @@
+.DS_STORE
+.remote-sync.json
+.venv
+.idea
+.localstorage
+.module-cache
+.vscode
+*.pyc
+*.db
+*.orig
+*.rdb
+*.log
+*.pid
+*.csv
+__pycache__
+.env
